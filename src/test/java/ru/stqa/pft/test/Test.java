@@ -5,7 +5,7 @@ public class Test {
 
     @org.junit.jupiter.api.Test
     public void mike () {
-        System.out.println("Hello");
+        System.out.println();
     }
 
 }
